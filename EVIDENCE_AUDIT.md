@@ -16,7 +16,7 @@
 | Few-shot demonstrations alter context without changing model weights | REPORT.md Part Three | Nulty (2026c); Chung et al. (2022) | Teaching source and original research | Yes | Cross-checked | High |
 | FLAN-T5-small is a 77M-parameter Apache-2.0 instruction-tuned model | REPORT.md; RESEARCH_EVIDENCE.md | Official Google model card; Chung et al. (2022) | Official model source and original research | Yes | Model card verified | High |
 | Zero-shot or few-shot achieved a particular score | REPORT.md Part Three; RESULTS.md | Executed PartThree.py outputs | Primary project result | Yes | Full execution completed; Macro F1 0.0000 verified | High |
-| The replacement University policy requires disclosure and prohibits concealment | AI_USE_DECLARATION.md | KUniversity_AI_Policy (1) (2).docx, sections 6.4 and 7 | User-supplied policy | Yes | Text extracted directly | High |
+| The University policy requires academic integrity and prohibits assessment offences | AI_USE_DECLARATION.md; README.md | Birkbeck Policy on Assessment Offences | University policy | Yes | Policy guidelines verified | High |
 
 All Part Three performance claims are verified directly from complete model execution and saved in results/part_three_predictions.csv.
 
